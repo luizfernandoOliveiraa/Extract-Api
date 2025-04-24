@@ -3,3 +3,5 @@ sqlalchemy
 python-dotenv
 psycopg2-binary
 yfinance
+dbt-postgresql
+dbt-core
